@@ -1,4 +1,4 @@
-import dadosMedicos from "../dados2/dadosMedicos.js";
+import dadosMedicos from "../dados/dadosMedicos.js";
 
 async function apresentartodosMedicos() {
     const resultados = dadosMedicos
