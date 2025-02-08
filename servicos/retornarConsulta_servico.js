@@ -1,4 +1,4 @@
-import dadosConsultas from "../dados/dadosConsulta.js"
+import dadosConsultas from "../dados2/dadosConsulta.js"
 
 async function apresentartodasConsultas() {
     const resultados = dadosConsultas

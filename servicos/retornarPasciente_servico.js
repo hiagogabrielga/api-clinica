@@ -1,4 +1,4 @@
-import dadosPacientes from "../dados/dadosPacientes.js"
+import dadosPacientes from "../dados2/dadosPacientes.js"
 
 async function apresentartodosPacientes() {
     const resultados = dadosPacientes
